@@ -5,6 +5,13 @@ storyjs_jsonp_data = {
         "type":"default",
 		"text":"People say stuff",
 		"startDate":"2017,1",
+        "title":[
+            {
+                
+                "startDate":"2017,1",
+                "text":"This is a title slide."
+            }
+        ],
         "date": [        
             {
                 "startDate":"2017,04",

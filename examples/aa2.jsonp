@@ -1,0 +1,46 @@
+storyjs_jsonp_data = {
+	"timeline":
+	{
+		"headline":"Caleres Advanced Analytics",
+		"type":"default",
+		"text":"<p>Intro body text goes here, some HTML is ok</p>",
+		"asset": {
+			"media":"http://yourdomain_or_socialmedialink_goes_here.jpg",
+			"credit":"Credit Name Goes Here",
+			"caption":"Caption text goes here"
+		},
+		"date": [
+			{
+				"startDate":"2017,01,01",
+				"endDate":"2017,02,01",
+				"headline":"Headline Goes Here",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":"This is Optional",
+				"asset": {
+					"media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
+					"thumbnail":"optional-32x32px.jpg",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			}
+		],
+		"era": [
+			{
+				"startDate":"2017,01,01",
+				"endDate":"2018,01,01",
+				"headline":"Systems Technology and Implementation",
+				"tag":"This is Optional"
+			}
+			
+		]
+		"era": [
+			{
+				"startDate":"2017,01,01",
+				"endDate":"2018,01,01",
+				"headline":"Organization and Talent",
+				"tag":"This is Optional"
+			}
+		]
+		
+	}
+}

@@ -1,0 +1,118 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Caleres Advanced Analytics",
+        "type":"default",
+		"text":"People say stuff",
+		"startDate":"2017,1",
+        "date": [        
+            {
+                "startDate":"2017,04",
+                "endDate":"2017,07",
+                "headline":"Customer Attrition",
+                "text":"<p>Famous Footwear Churn Prediction Algorithm. <a href=\"https://gallery.cortanaintelligence.com/Tutorial/Retail-Customer-Churn-Prediction-1\">Cortana Intelligence Gallery</a></p>",
+                "asset": {
+                    "media":"https://az712634.vo.msecnd.net/content/14b2744cf8d6418c87ffddc3f3127242/9502630827244d60a1214f250e3bbca7/ea949e1c6b2d4ed99bd725b20380dca1/effcb4cc2dc24d52999d149f27aa0f26/image?04267249198223655.jpg",
+                    "thumbnail":"",
+                    "credit":"Microsoft Corporation",
+                    "caption":""
+                },
+                "tag":"Use Case"
+            },   
+            {
+                "startDate":"2017,04",
+                "endDate":"2017,07",
+                "headline":"(Proof-of-Concept) Cloud Infrastructure",
+                "text":"<p>Microsoft Azure Cloud platform proof-of-concept:<ul><li>Machine Learning Studio</li><li>Cortana Intelligence Gallery</li><li>Data Lake</li><li>Data Factory</li></ul></p>",
+                "asset": {
+                    "media":"https://azurecomcdn.azureedge.net/cvt-f50521786d7494d1129069f701d8751293420aaad404b4aa8260a68606055807/images/page/services/machine-learning/simple-scalable-cutting-edge.jpg",
+                    "thumbnail":"",
+                    "credit":"Microsoft Corporation",
+                    "caption":""
+                },
+                "tag":"Systems and Technology Implementation"
+            },
+            {
+                "startDate":"2017,07",
+                "endDate":"2017,10",
+                "headline":"(Proof-of-Concept) On-premise Linux cluster",
+                "text":"<p><ul><li>Jupyter</li><li>Python</li></p>",
+                "tag":"Systems and Technology Implementation"
+            },
+            {
+                "startDate":"2017,08",
+                "endDate":"2020,12",
+                "headline":"(Production) On-premise Linux cluster",
+                "text":"<p><ul><li>Jupyter</li><li>Python</li></p>",
+                "tag":"Systems and Technology Implementation"
+            },
+            {
+                "startDate":"2018,04",
+                "endDate":"2020,12",
+                "headline":"(Production) Cloud Infrastructure",
+                "text":"<p><ul><li>Jupyter</li><li>Python</li></p>",
+                "tag":"Systems and Technology Implementation"
+            },
+            {
+                "startDate":"2017,04",
+                "endDate":"2017,07",
+                "headline":"(25%) Manager, (25%) Data Scientist, (10%) Database Administrator",
+                "text":"<p>(25%) Manager, (25%) Data Scientist, (10%) Database Administrator</p>",
+                "tag":"Organization and Talent"
+            },
+            {
+                "startDate":"2017,07",
+                "endDate":"2017,12",
+                "headline":"(25%) Manager, (35%) Data Scientist, (25%) Information Systems Architect",
+                "text":"<p>(25%) Manager, (35%) Data Scientist, (25%) Information Systems Architect</p>",
+                "tag":"Organization and Talent"
+            },
+            {
+                "startDate":"2017,04",
+                "endDate":"2017,15",
+                "headline":"Leaders Lab: data possibilities and asking questions",
+                "text":"<p>Leaders Lab: data possibilities and asking questions</p>",
+                "tag":"Culture Development"
+            },
+            {
+                "startDate":"2017,01,01",
+                "endDate":"2017,12,31",
+                "headline":"<strong>I. Familiar, strutctured data.</strong> Acted upon at scale.",
+                "text":"<p>Source <a target=\"_blank\" href=\"https://www.slideshare.net/McK_CMSOForum/big-data-and-advanced-analytics-16-use-cases\">Big Data and Advanced Analytics 16 Use Cases From a Practitioner's Perspective</a>, McKinsey & Company, Jul 10, 2013</p>",
+                "asset": {
+                    "media":"https://image.slidesharecdn.com/mckinsey-nasscompresentationforsharing-130710162421-phpapp02/95/big-data-and-advanced-analytics-2-638.jpg?cb=1398085989",
+                    "thumbnail":"",
+                    "credit":"McKinsey & Company, Jul 10, 2013",
+                    "caption":""
+                },
+                "tag":"Data Maturity"
+            },
+            {
+                "startDate":"2018,01,01",
+                "endDate":"2018,12,31",
+                "headline":"II. Unfamiliar, unstrutctured data. <strong>Converted into structured date.</strong> Acted upon at scale.",
+                "text":"<p>Computer vision, feature detection. Nature language processing. Optical character recognition. Source <a target=\"_blank\" href=\"https://www.slideshare.net/McK_CMSOForum/big-data-and-advanced-analytics-16-use-cases\">Big Data and Advanced Analytics 16 Use Cases From a Practitioner's Perspective</a>, McKinsey & Company, Jul 10, 2013</p>",
+                "asset": {
+                    "media":"https://image.slidesharecdn.com/mckinsey-nasscompresentationforsharing-130710162421-phpapp02/95/big-data-and-advanced-analytics-11-638.jpg?cb=1398085989",
+                    "thumbnail":"",
+                    "credit":"McKinsey & Company, Jul 10, 2013",
+                    "caption":""
+                },
+                "tag":"Data Maturity"
+            },
+            {
+                "startDate":"2019,01,01",
+                "endDate":"2019,12,31",
+                "headline":"III. Unfamiliar, unstrutctured data. <strong>Acted upon directly.</strong> Sometimes at scale.",
+                "text":"<p>Omnichannel marketing execution. Fraud detection. Source <a target=\"_blank\" href=\"https://www.slideshare.net/McK_CMSOForum/big-data-and-advanced-analytics-16-use-cases\">Big Data and Advanced Analytics 16 Use Cases From a Practitioner's Perspective</a>, McKinsey & Company, Jul 10, 2013</p>",
+                "asset": {
+                    "media":"https://image.slidesharecdn.com/mckinsey-nasscompresentationforsharing-130710162421-phpapp02/95/big-data-and-advanced-analytics-18-638.jpg?cb=1398085989",
+                    "thumbnail":"",
+                    "credit":"McKinsey & Company, Jul 10, 2013",
+                    "caption":""
+                },
+                "tag":"Data Maturity"
+            }
+        ]
+    }
+}
